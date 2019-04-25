@@ -4,7 +4,7 @@
 <!-- LINKS -->
 <!-- Replace the link for each in brackets below -->
 <!-- PR (working into submission) -->
-[1]: http://xyz.com
+[1]: https://github.com/401-advanced-javascript-billybunn/lab-28/pull/1
 <!-- travis build -->
 [2]: https://www.travis-ci.com/YOUR_ORG_NAME/REPO_NAME
 <!-- back-end -->
@@ -24,31 +24,32 @@
 * [PR][1]
 
 #### Assignment 1 - Props Practice
-* [Part 1]()
-* [Part 2]()
+* [Part 1](https://codesandbox.io/embed/w7yz4lnkw)
+* [Part 2](https://codesandbox.io/s/50025km944)
+* **Modules**
+  * `index.js`
+  * `app.js`
+  * `message.js` _(state)_
 
 #### Assignment 2 - Internal State Practice
-* [Part 1]()
-* [Part 2]()
+* [Part 1](https://codesandbox.io/s/qqpj04qjjq)
+* [Part 2](https://codesandbox.io/s/x2jylr694)
+* **Modules**
+  * `index.js`
+  * `app.js`
+  * `name-form.js` _(state)_
 
 #### Assignment 3 - External State Practice
-* [Part 1]()
-* [Part 2]()
+* [Part 1](https://codesandbox.io/s/zlr7v0lr6m)
+* [Part 2](https://codesandbox.io/s/r5nr279mpm)
+* **Modules**
+  * `index.js`
+  * `app.js` _(state)_
+  * `form.js`
+  * `form-output.js`
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-<!-- If you finished everything, you should be able to copy/paste the lab requirements and put them in present tense. -->
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
-  
 #### Tests
-* How do you run tests?
-  * `npm run test`
+* See **Tests** tab in CodeSandbox
 
 #### UML
 ![UML Diagram](https://i.imgur.com/m50IedB.jpg)
